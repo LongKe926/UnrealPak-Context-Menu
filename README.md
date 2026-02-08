@@ -6,4 +6,5 @@ Add the compression function of UnrealPak to the context menu.
   - Example: “D:\Work\UnrealPak\UnrealPak-ContextMenu-With-Compression.bat\”
   - Refer to: “Adding UnrealPak Context Menu.gif”
 - Run "Add UnrealPak To Context Menu.reg" to create the context menu.
-- Right-click on a folder and select "UnrealPak Compress".
+- Right-click on a folder and select "UnrealPak Compress".<br>
+![image](https://github.com/LongKe926/UnrealPak-Context-Menu/blob/main/Adding%20UnrealPak%20Context%20Menu.gif)
